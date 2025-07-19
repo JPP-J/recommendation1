@@ -1,0 +1,22 @@
+# Code for run
+python main_revise.py
+
+
+hdfs dfs
+
+stop-dfs.sh
+stop-yarn.sh
+start-dfs.sh
+start-yarn.sh
+
+jps
+
+
+(base) jpp@LAPTOP-JIDA:~$ jps
+30720 SecondaryNameNode
+30353 NameNode
+30469 DataNode
+30950 ResourceManager
+11879 NodeManager
+31439 Jps
+
