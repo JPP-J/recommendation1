@@ -1,8 +1,7 @@
 # Recommendation System Project
 
-![Last Commit](https://img.shields.io/github/last-commit/JPP-J/recommendation_project?style=flat-square)
-![Python](https://img.shields.io/badge/Python-97.6%25-blue?style=flat-square)
-![Languages](https://img.shields.io/github/languages/count/JPP-J/recommendation_project?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/JPP-J/recommendation1?style=flat-square)
+![Languages](https://img.shields.io/github/languages/count/JPP-J/recommendation1?style=flat-square)
 
 This repo is home to the code that accompanies Jidapa's *Recommendation System Project* , which provides; 
 
