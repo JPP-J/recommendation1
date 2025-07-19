@@ -1,0 +1,8 @@
+.venv/
+.idea/
+.wslvenv/
+__pycache__
+spark-warehouse
+config
+test/
+metastore_db/
